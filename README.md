@@ -5,8 +5,12 @@ $ python banker.py
 ```
 
 ## Executable
+### Windows
 ```
-./dist/banker
+./windows/dist/banker.exe
 ```
 
-> **NOTE** This executable was generated on a linux machine so it might not work properly on windows
+### linux
+```
+./linux/dist/banker
+```
